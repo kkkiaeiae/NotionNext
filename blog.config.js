@@ -13,9 +13,9 @@ const BLOG = {
   LINK: 'https://elkut.codes',
   LANG: process.env.NEXT_PUBLIC_LANG || 'zh-CN',
   SINCE: 2024,
-  AVATAR: '80f1e224aba27c7c3b9c1bbff12750b2.jpg',
+  AVATAR: '/80f1e224aba27c7c3b9c1bbff12750b2.jpg',
   AVATAR_LINK: '/about',
-  HOME_BANNER_IMAGE: '80f1e224aba27c7c3b9c1bbff12750b2.jpg',
+  HOME_BANNER_IMAGE: '/https://i.ibb.co.com/zTShsZ2h/Kenshi-Yonezu-2019-cr-Tomokazu-Yamada-billboard-1548.webp',
   APPEARANCE: process.env.NEXT_PUBLIC_APPEARANCE || 'auto',
   APPEARANCE_DARK_TIME: process.env.NEXT_PUBLIC_APPEARANCE_DARK_TIME || [18, 6],
   HOME_BANNER_STRINGS: [
